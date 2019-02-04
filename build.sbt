@@ -24,7 +24,7 @@ publishTo := {
 }
 
 pomExtra :=
-  <url>https://github.com/lemonlabsuk/scala-uri</url>
+  <url>https://github.com/theon/empty-project</url>
     <licenses>
       <license>
         <name>Apache 2</name>
@@ -33,8 +33,8 @@ pomExtra :=
       </license>
     </licenses>
     <scm>
-      <url>git@github.com:lemonlabsuk/scala-uri.git</url>
-      <connection>scm:git@github.com:lemonlabsuk/scala-uri.git</connection>
+      <url>git@github.com:theon/empty-project.git</url>
+      <connection>scm:git@github.com:theon/empty-project.git</connection>
     </scm>
     <developers>
       <developer>
